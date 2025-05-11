@@ -10,7 +10,7 @@ formally going into Computer Science. But what I am passionate is its utilizatio
 to practice and dive deeper in what I can do with this newly found passion of mine. And shifting from humanities has been the best decision of my life.
 
 ## How to navigate my repos and stuff
-I named each of my repo prior to 2025 with a prefix Cleto_<type>_<name> or Cleto_<name>_<type>. Apologies in advanced if I mixed the two up but at any rate, there are two types of repos; project and practice.
+I named each of my repo prior to 2025 with a prefix Cleto_type_name or Cleto_name_type. Apologies in advanced if I mixed the two up but at any rate, there are two types of repos; project and practice.
 If the repo name is Cleto_practice_name then it is a bunch of code that I used as practice either for school or for fun (personal reasons lol).
 If the repo name is Cleto_project_name then it is a project, and most likely would include documentation on how to use the app and so on.
 
