@@ -17,6 +17,13 @@ If the repo name is Cleto_project_name then it is a project, and most likely wou
 Note: repos before 2025 will not use this format.
 
 ## Current Skills
+* **C++:** ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+* **Python:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+* **Java:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+* **Assembly:** ![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assembly&logoColor=white) 
+* **Unreal Engine:** ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+* **Godot:** ![Godot](https://img.shields.io/badge/Godot-429CAA?style=for-the-badge&logo=godot&logoColor=white)
+
 
 <!--
 **ArtemioVibora/ArtemioVibora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
