@@ -16,7 +16,7 @@ If the repo name is Cleto_project_name then it is a project, and most likely wou
 
 Note: repos before 2025 will not use this format.
 
-## Current Skills
+## Currently learning
 * **C++:** ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 * **Python:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 * **Java:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
