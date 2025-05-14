@@ -16,6 +16,8 @@ If the repo name is Cleto_project_name then it is a project, and most likely wou
 
 Note: repos before 2025 will not use this format.
 
+## Current Skills
+
 <!--
 **ArtemioVibora/ArtemioVibora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
