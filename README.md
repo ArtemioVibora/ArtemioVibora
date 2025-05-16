@@ -28,7 +28,7 @@ Note: repos before 2025 will not use this format.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-## 📊 My GitHub Stats
+## Github Stats for the lowly SMPF Student
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArtemioVibora&show_icons=true&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemioVibora&layout=compact&theme=radical)
