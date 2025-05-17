@@ -38,6 +38,12 @@ Note: repos before 2025 will not use this format.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArtemioVibora&show_icons=true&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemioVibora&layout=compact&theme=radical)
 
+## Achievements Wahoo!
+* Winner of Best Non-Unity Game in Game Jam Plus 2023
+* Deans Lister of Computer Science for the GWA of 1.150
+* Participant of the Kumu Game Jam
+* Certified WebDesigner of FreeCodeCamp
+
 <!--
 **ArtemioVibora/ArtemioVibora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
