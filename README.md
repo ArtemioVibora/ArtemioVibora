@@ -33,18 +33,23 @@ Note: repos before 2025 will not use this format.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Lisp](https://img.shields.io/badge/Lisp-4C0099?style=for-the-badge&logo=lisp&logoColor=white)
-(Csharp hahaha)
 
 ## Github Stats for the lowly SMPF Student
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArtemioVibora&show_icons=true&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemioVibora&layout=compact&theme=radical)
 
+## Organizations
+* Compile (CS organization based in iAcademy)
+* Develup (Game Development organization based in UP, Diliman)
+* Computer Professionals' Union
+
 ## Achievements Wahoo!
 * Winner of Best Non-Unity Game in Game Jam Plus 2023
 * Deans Lister of Computer Science for the GWA of 1.150
 * Participant of the Kumu Game Jam
 * Certified WebDesigner of FreeCodeCamp
+* Participated in the VoteReportPH as an electoral watchdog for the 2025 Philippine elections
 
 <!--
 **ArtemioVibora/ArtemioVibora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
