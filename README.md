@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 (OUT ON VACATION)
 ### My Name is Juan
 Discovered my passion for programming and Computer Science in general on April 27, 2022 when I made an Unreal Engine game. I likened it to a Cosmic Door in which once opened it can never be closed
 and I entered in it and immediately fell in love with the world of Computing. In a way, it saved me from my instability that I experienced in Creative Writing as I found myself more expressive here
