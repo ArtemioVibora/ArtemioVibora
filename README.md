@@ -52,6 +52,7 @@ Note: repos before 2025 will not use this format.
 * Certified WebDesigner of FreeCodeCamp
 * Participated in the VoteReportPH as an electoral watchdog for the 2025 Philippine elections
 * Won Capture the Flag contest 2025
+* Won second place in an ICT Quiz Bee Brain Busters
 
 <!--
 **ArtemioVibora/ArtemioVibora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
