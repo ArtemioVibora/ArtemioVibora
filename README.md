@@ -45,6 +45,7 @@ Note: repos before 2025 will not use this format.
 * Computer Professionals' Union
 
 ## Achievements Wahoo!
+* Graduated from Sertipiko ng Malikhaing Pagsulat sa Filipino (Creative Writing in Filipino)
 * Winner of Best Non-Unity Game in Game Jam Plus 2023
 * Deans Lister of Computer Science for the GWA of 1.150 first term of AY 2024-2025
 * Deans Lister of Computer Science for the GWA of 1.375 second term of AY 2024-2025
@@ -54,6 +55,8 @@ Note: repos before 2025 will not use this format.
 * Won Capture the Flag contest 2025
 * Won second place in an ICT Quiz Bee Brain Busters
 
+⚡ Fun fact:
+* I speak German, Japanese, and Arabic. And a poet in my free time! And also worked as an actor haha
 <!--
 **ArtemioVibora/ArtemioVibora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
