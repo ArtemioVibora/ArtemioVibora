@@ -33,6 +33,7 @@ Note: repos before 2025 will not use this format.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Lisp](https://img.shields.io/badge/Lisp-4C0099?style=for-the-badge&logo=lisp&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ## Github Stats for the lowly SMPF Student
 
