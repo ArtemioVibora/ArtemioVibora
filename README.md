@@ -9,6 +9,8 @@ Computer Science in general. As in generally, I have built a compiler, a bootloa
 formally going into Computer Science. But what I am passionate is its utilization of mathematics. Which would further my goal in diving deep into Quantum Computing hence why I now code each and everyday
 to practice and dive deeper in what I can do with this newly found passion of mine. And shifting from humanities has been the best decision of my life.
 
+And it still is! 
+
 ## How to navigate my repos and stuff
 I named each of my repo prior to 2025 with a prefix Cleto_type_name or Cleto_name_type. Apologies in advanced if I mixed the two up but at any rate, there are two types of repos; project and practice.
 If the repo name is Cleto_practice_name then it is a bunch of code that I used as practice either for school or for fun (personal reasons lol).
