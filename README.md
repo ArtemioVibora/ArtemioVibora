@@ -59,7 +59,7 @@ Note: repos before 2025 will not use this format.
 * Won second place in an ICT Quiz Bee Brain Busters
 
 ⚡ Fun fact:
-* I speak German, Japanese, and Arabic. And a poet in my free time! And also worked as an actor haha
+* I speak German, Japanese, and Arabic. And a poet in my free time and training to be a novelist! And also worked as an actor haha
 <!--
 **ArtemioVibora/ArtemioVibora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
