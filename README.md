@@ -52,6 +52,7 @@ Note: repos before 2025 will not use this format.
 * Winner of Best Non-Unity Game in Game Jam Plus 2023
 * Deans Lister of Computer Science for the GWA of 1.150 first term of AY 2024-2025
 * Deans Lister of Computer Science for the GWA of 1.375 second term of AY 2024-2025
+* Deans Lister of Computer Science for the GWA of 1.29 third term of AY 2024-2025
 * Participant of the Kumu Game Jam
 * Certified WebDesigner of FreeCodeCamp
 * Participated in the VoteReportPH as an electoral watchdog for the 2025 Philippine elections
