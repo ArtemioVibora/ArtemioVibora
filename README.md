@@ -58,6 +58,7 @@ Note: repos before 2025 will not use this format.
 * Participated in the VoteReportPH as an electoral watchdog for the 2025 Philippine elections
 * Won Capture the Flag contest 2025
 * Won second place in an ICT Quiz Bee Brain Busters
+* SSS New Panaderos Branch Certificate of Appreciation for a Software I developed
 
 ⚡ Fun fact:
 * I speak German, Japanese, and Arabic. And a poet in my free time and training to be a novelist! And also worked as an actor haha
