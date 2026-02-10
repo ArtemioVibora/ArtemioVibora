@@ -38,6 +38,7 @@ Note: repos before 2025 will not use this format.
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ## Github Stats for the lowly SMPF Student
+(TO BE FIXED HAHAHA)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArtemioVibora&show_icons=true&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemioVibora&layout=compact&theme=radical)
