@@ -37,12 +37,12 @@ Note: repos before 2025 will not use this format.
 ![Lisp](https://img.shields.io/badge/Lisp-4C0099?style=for-the-badge&logo=lisp&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Nodedotjs](https://shields.io)
+
 
 ## Github Stats for the lowly SMPF Student
 
-![GitHub Stats](https://vercel.app)
-![Top Languages](https://vercel.app)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArtemioVibora&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemioVibora&layout=compact&theme=radical)
 
 ## Organizations
 * Compile (CS organization based in iAcademy)
