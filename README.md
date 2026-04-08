@@ -37,6 +37,7 @@ Note: repos before 2025 will not use this format.
 ![Lisp](https://img.shields.io/badge/Lisp-4C0099?style=for-the-badge&logo=lisp&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Nodedotjs](https://shields.io)
 
 ## Github Stats for the lowly SMPF Student
 
