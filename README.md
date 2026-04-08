@@ -36,9 +36,9 @@ Note: repos before 2025 will not use this format.
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Lisp](https://img.shields.io/badge/Lisp-4C0099?style=for-the-badge&logo=lisp&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Node JS](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
-![Express.js](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
-![Helmet.js](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
+![Node JS](https://img.shields.io/badge/Node)
+![Express.js](https://img.shields.io/badge/Express)
+![Helmet.js](https://img.shields.io/badge/Helmet)
 
 ## Github Stats for the lowly SMPF Student
 
