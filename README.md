@@ -39,11 +39,11 @@ Note: repos before 2025 will not use this format.
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 
-## Github Stats for the lowly SMPF Student
+<!--## Github Stats for the lowly SMPF Student
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArtemioVibora&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemioVibora&layout=compact&theme=radical)
-
+-->
 ## Organizations
 * Compile (CS organization based in iAcademy)
 * Develup (Game Development organization based in UP, Diliman)
