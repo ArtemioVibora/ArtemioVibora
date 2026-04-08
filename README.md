@@ -41,8 +41,8 @@ Note: repos before 2025 will not use this format.
 
 ## Github Stats for the lowly SMPF Student
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArtemioVibora&show_icons=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemioVibora&layout=compact&theme=radical)
+![GitHub Stats](https://vercel.app)
+![Top Languages](https://vercel.app)
 
 ## Organizations
 * Compile (CS organization based in iAcademy)
