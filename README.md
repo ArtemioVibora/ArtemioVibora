@@ -19,7 +19,7 @@ If it does then it is a project.
 
 Note: repos before 2025 will not use this format.
 
-## Currently learning and Stacks
+## Stacks
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assembly&logoColor=white) 
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
@@ -37,8 +37,6 @@ Note: repos before 2025 will not use this format.
 ![Lisp](https://img.shields.io/badge/Lisp-4C0099?style=for-the-badge&logo=lisp&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express)
-![Helmet.js](https://img.shields.io/badge/Helmet)
 
 ## Github Stats for the lowly SMPF Student
 
