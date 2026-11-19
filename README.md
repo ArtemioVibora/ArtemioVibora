@@ -79,6 +79,9 @@ Note: repos before 2025 will not use this format.
 * Won second place in an ICT Quiz Bee Brain Busters
 * SSS New Panaderos Branch Certificate of Appreciation for a Software I developed
 
+## Current work
+Systems Engineer and de-facto CTO at ViralCreatorsPH
+
 ⚡ Fun fact:
 * I speak German, Japanese, and Arabic. And a poet in my free time and training to be a novelist! And also worked as an actor haha
 <!--
